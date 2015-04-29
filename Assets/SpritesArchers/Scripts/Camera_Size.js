@@ -10,6 +10,6 @@ function Start () {
 function Update () {
 
 distance = Mathf.Clamp(distance - Input.GetAxis("Mouse ScrollWheel")*5, distanceMin, distanceMax);
-camera.main.orthographicSize = distance;
+GetComponent.<Camera>().main.orthographicSize = distance;
 
 }
