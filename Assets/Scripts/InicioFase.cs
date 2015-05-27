@@ -6,18 +6,10 @@ public class InicioFase : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		gameManager = (GerenciadorJogo)FindObjectOfType(typeof(GerenciadorJogo));
-		if (gameManager != null) {
-			Debug.Log ("peguei");
-		} else {
-			Debug.Log("nao peguei");
-		}
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if(gameManager == null) {
-			gameManager = (GerenciadorJogo)FindObjectOfType(typeof(GerenciadorJogo));
-		}
 	}
 
 	void OnTriggerEnter2D(Collider2D coll) {

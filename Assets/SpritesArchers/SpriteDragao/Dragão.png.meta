@@ -1,0 +1,726 @@
+fileFormatVersion: 2
+guid: 2f048fe4e4f94b141a1c2e2857e60f20
+timeCreated: 1432757859
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Drag\xE3o_0"
+    21300002: "Drag\xE3o_1"
+    21300004: "Drag\xE3o_2"
+    21300006: "Drag\xE3o_3"
+    21300008: "Drag\xE3o_4"
+    21300010: "Drag\xE3o_5"
+    21300012: "Drag\xE3o_6"
+    21300014: "Drag\xE3o_7"
+    21300016: "Drag\xE3o_8"
+    21300018: "Drag\xE3o_10"
+    21300020: "Drag\xE3o_11"
+    21300022: "Drag\xE3o_13"
+    21300024: "Drag\xE3o_15"
+    21300026: "Drag\xE3o_16"
+    21300028: "Drag\xE3o_17"
+    21300030: "Drag\xE3o_18"
+    21300032: "Drag\xE3o_19"
+    21300034: "Drag\xE3o_20"
+    21300036: "Drag\xE3o_21"
+    21300038: "Drag\xE3o_22"
+    21300040: "Drag\xE3o_23"
+    21300042: "Drag\xE3o_24"
+    21300044: "Drag\xE3o_25"
+    21300046: "Drag\xE3o_26"
+    21300048: "Drag\xE3o_27"
+    21300050: "Drag\xE3o_28"
+    21300052: "Drag\xE3o_29"
+    21300054: "Drag\xE3o_30"
+    21300056: "Drag\xE3o_32"
+    21300058: "Drag\xE3o_33"
+    21300060: "Drag\xE3o_34"
+    21300062: "Drag\xE3o_35"
+    21300064: "Drag\xE3o_36"
+    21300066: "Drag\xE3o_37"
+    21300068: "Drag\xE3o_38"
+    21300070: "Drag\xE3o_39"
+    21300072: "Drag\xE3o_40"
+    21300074: "Drag\xE3o_41"
+    21300076: "Drag\xE3o_42"
+    21300078: "Drag\xE3o_43"
+    21300080: "Drag\xE3o_44"
+    21300082: "Drag\xE3o_45"
+    21300084: "Drag\xE3o_47"
+    21300086: "Drag\xE3o_48"
+    21300088: "Drag\xE3o_49"
+    21300090: "Drag\xE3o_50"
+    21300092: "Drag\xE3o_51"
+    21300094: "Drag\xE3o_52"
+    21300096: "Drag\xE3o_53"
+    21300098: "Drag\xE3o_54"
+    21300100: "Drag\xE3o_56"
+    21300102: "Drag\xE3o_57"
+    21300104: "Drag\xE3o_58"
+    21300106: "Drag\xE3o_59"
+    21300108: "Drag\xE3o_60"
+    21300110: "Drag\xE3o_61"
+    21300112: "Drag\xE3o_62"
+    21300114: "Drag\xE3o_63"
+    21300116: "Drag\xE3o_64"
+    21300118: "Drag\xE3o_65"
+    21300120: "Drag\xE3o_66"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Drag\xE3o_0"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 943
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_1"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 943
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_2"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 943
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_3"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 943
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_4"
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 943
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_5"
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 943
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_6"
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 943
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_7"
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 943
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_8"
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 943
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_10"
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 941
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_11"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 943
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_13"
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 943
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_15"
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 943
+        width: 75
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_16"
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 943
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_17"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 787
+        width: 140
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_18"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 786
+        width: 169
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_19"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 786
+        width: 194
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_20"
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 783
+        width: 186
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_21"
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 786
+        width: 163
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_22"
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 783
+        width: 206
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_23"
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 786
+        width: 203
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_24"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 646
+        width: 169
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_25"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 646
+        width: 197
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_26"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 646
+        width: 192
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_27"
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 706
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_28"
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 646
+        width: 182
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_29"
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 644
+        width: 242
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_30"
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 645
+        width: 233
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_32"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 478
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_33"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 443
+        width: 145
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_34"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 444
+        width: 138
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_35"
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 450
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_36"
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 387
+        width: 169
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_37"
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 467
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_38"
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 467
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_39"
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 467
+        width: 171
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_40"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 232
+        width: 181
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_41"
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 247
+        width: 174
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_42"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 247
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_43"
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 247
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_44"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 246
+        width: 113
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_45"
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 245
+        width: 135
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_47"
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 245
+        width: 130
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_48"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 262
+        width: 181
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_49"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 91
+        width: 140
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_50"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 89
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_51"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 89
+        width: 121
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_52"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 89
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_53"
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 86
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_54"
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 87
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_56"
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 83
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_57"
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 86
+        width: 111
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_58"
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 90
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_59"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_60"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_61"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_62"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 12
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_63"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 12
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_64"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 12
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_65"
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 12
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Drag\xE3o_66"
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 12
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
