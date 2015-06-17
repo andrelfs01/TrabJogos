@@ -49,6 +49,14 @@ public class GerenciadorFase : MonoBehaviour {
 		fase.transform.position = pontoEncontro.transform.position;
 	}
 
+	public void sendDefault() {
+		Default []objetos = anterior.GetComponentsInChildren<Default> ();
+		Debug.Log (objetos.Length);
+		for(int Cont=0; Cont<objetos.Length;Cont++) {
+			objetos[Cont].sendDefault();
+		}
+	}
+
 	//gira as fases apra criar um loop de fases;
 	public void rotacionarFases() {
 		if (anterior == null) {

@@ -16,4 +16,8 @@ public class GerenciadorJogo : MonoBehaviour {
 	public void AtualizarGame() {
 		faseManager.rotacionarFases();
 	}
+
+	public void sendDefault() {
+		faseManager.sendDefault();
+	}
 }

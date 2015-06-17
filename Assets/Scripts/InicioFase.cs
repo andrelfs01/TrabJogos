@@ -12,12 +12,10 @@ public class InicioFase : MonoBehaviour {
 	void Update () {
 	}
 
-	void OnTriggerEnter2D(Collider2D coll) {
+	void OnTriggerExit2D(Collider2D coll) {
 		if(coll.gameObject.tag.Equals("Player")) {
 			gameManager.AtualizarGame();
 		}
 	
 	}
-
-	//void OnTriggerExit2D(Collider2D other);
 }
